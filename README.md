@@ -12,5 +12,5 @@ Example POST request:
 
 
 
-The project is based on an [article]([https://www.example.com](https://habr.com/ru/articles/718800/)https://habr.com/ru/articles/718800/) from habr. 
+The project is based on an [article](https://habr.com/ru/articles/718800/) from habr. 
 The main difference is the hashing of links.
